@@ -1,7 +1,7 @@
-##Hello Here is Your Computer Graphics Code.......:
+#Hello Here is Your Computer Graphics Code.......:
 
 #Standard Code form
-
+__
 #include<GL/glut.h>
 #include<GL/gl.h>
 void init()
@@ -29,3 +29,4 @@ glutInit(&argc, argv);
 glutDisplayFunc();
 glutMainLoop();
 }
+__
