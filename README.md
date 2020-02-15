@@ -1,6 +1,6 @@
-Hello Here is Your Computer Graphics Code.......:
+##Hello Here is Your Computer Graphics Code.......:
 
-Standard Code form
+#Standard Code form
 
 #include<GL/glut.h>
 #include<GL/gl.h>
