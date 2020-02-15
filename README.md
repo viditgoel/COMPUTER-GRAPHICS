@@ -1,8 +1,9 @@
-#Hello Here is Your Computer Graphics Code.......:
+# Hello Here is Your Computer Graphics Code.......:
 
-#Standard Code form
+# Standard Code form
 __
-#include<GL/glut.h>
+
+#include<GL/glut.h> /n
 #include<GL/gl.h>
 void init()
 {
