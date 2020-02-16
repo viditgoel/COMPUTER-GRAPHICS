@@ -1,4 +1,4 @@
-# Hello Here is Your Computer Graphics Code.......:
+# Hello Here is Your Computer Graphics Code
 
 # Standard Code form
 __
