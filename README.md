@@ -3,8 +3,9 @@
 # Standard Code form
 
 ---
-#include<GL/glut.h> /n
-#include<GL/gl.h>
+<!-- Blockquote -->
+> #include<GL/glut.h> /n
+>  #include<GL/gl.h>
 void init()
 {
 glClearColor(R,G,B,Transparency);
