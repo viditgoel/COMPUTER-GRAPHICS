@@ -3,7 +3,7 @@
 # Standard Code form
 
 
-<p>
+```
 #include<GL/glut.h> 
 #include<GL/gl.h>
 void init()
@@ -31,7 +31,7 @@ glutInit(&argc, argv);
 glutDisplayFunc();
 glutMainLoop();
 }
-</p>
+```
 
 * This is may
 ** Thsis 
