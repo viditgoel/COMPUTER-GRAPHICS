@@ -3,9 +3,9 @@
 # Standard Code form
 
 
-<!-- Blockquote -->
-> #include<GL/glut.h> /n
->  #include<GL/gl.h>
+<p>
+#include<GL/glut.h> 
+#include<GL/gl.h>
 void init()
 {
 glClearColor(R,G,B,Transparency);
@@ -31,6 +31,7 @@ glutInit(&argc, argv);
 glutDisplayFunc();
 glutMainLoop();
 }
+</p>
 
 * This is may
 ** Thsis 
