@@ -2,7 +2,7 @@
 
 # Standard Code form
 
-...
+---
 #include<GL/glut.h> /n
 #include<GL/gl.h>
 void init()
@@ -30,4 +30,4 @@ glutInit(&argc, argv);
 glutDisplayFunc();
 glutMainLoop();
 }
-...
+---
