@@ -8,16 +8,6 @@
 
 [Contribution Guidelines](CONTRIBUTING.md)
 
-## Future Scoe
-
-These [things](future.md) are to be added in the future.
-
-# License:
-
-[MIT License](LICENSE) 
-
-Feel free to reuse and distribute
-
 
 
 
