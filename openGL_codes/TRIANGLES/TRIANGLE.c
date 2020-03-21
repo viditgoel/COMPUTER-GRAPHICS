@@ -11,7 +11,7 @@ void display()
  glEnd();
  glColor3f(1,1,1);
  glRasterPos2f(-0.70,-0.70);
- glutBitmapString(GLUT_BITMAP_HELVETICA_18,"NAMAN:72");
+ glutBitmapString(GLUT_BITMAP_HELVETICA_18,"VIDIT GOEL:65");
  glFlush();
 }
 

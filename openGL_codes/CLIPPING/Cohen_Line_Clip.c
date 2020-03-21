@@ -124,7 +124,7 @@ void display()
    
    glColor3f(1,0,0);
    glRasterPos2f(-300,-300);
-   glutBitmapString(GLUT_BITMAP_HELVETICA_10,"NAMAN MANCHANDA:72");
+   glutBitmapString(GLUT_BITMAP_HELVETICA_10,"VIDIT GOEL:65");
 
    glFlush();
 
