@@ -1,4 +1,4 @@
-# Computer-Graphics
+# COMPUTER-GRAPHICS
 
 [1. Basic Graphic Programming in C++](https://www.geeksforgeeks.org/basic-graphic-programming-in-c/)
 
